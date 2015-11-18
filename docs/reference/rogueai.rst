@@ -1,0 +1,5 @@
+rogueai
+=======
+
+.. automodule:: rogueai
+    :members:

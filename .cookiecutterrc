@@ -1,0 +1,34 @@
+# This file exists so you can easily regenerate your project.
+#
+# Unfortunately cookiecutter can't use this right away so
+# you have to copy this file to ~/.cookiecutterrc
+
+default_context:
+
+    appveyor:                  'yes'
+    c_extension_optional:      'no'
+    c_extension_support:       'no'
+    codacy:                    'no'
+    codeclimate:               'no'
+    codecov:                   'yes'
+    command_line_interface:    'click'
+    coveralls:                 'no'
+    distribution_name:         'rogueai'
+    email:                     'barraponto@gmail.com'
+    full_name:                 'Capi Etheriel'
+    github_username:           'barraponto'
+    landscape:                 'yes'
+    package_name:              'rogueai'
+    project_name:              'RogueAI'
+    project_short_description: 'An example package. Replace this with a proper project description. Generated with https://github.com/ionelmc/cookiecutter-pylibrary'
+    release_date:              'today'
+    repo_name:                 'python-rogueai'
+    requiresio:                'yes'
+    scrutinizer:               'no'
+    sphinx_theme:              'readthedocs'
+    test_matrix_configurator:  'yes'
+    test_runner:               'pytest'
+    travis:                    'yes'
+    version:                   '0.1.0'
+    website:                   'https://barraponto.blog.br'
+    year:                      '2015'
